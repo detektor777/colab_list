@@ -3,3 +3,8 @@
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo">
 </a>
 
+# Deblur video (NAFNet)
+<a href="https://github.com/detektor777/colab_list/blob/main/nafnet_video_continue_new_buffer.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo">
+</a>
+
