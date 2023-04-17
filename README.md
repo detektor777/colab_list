@@ -10,3 +10,9 @@
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo">
 </a>
 
+# Deblur video (InstColorization)
+<img src="https://github.com/detektor777/colab_list/blob/main/image/InstColorization.jpg" height="200" alt="InstColorization">
+<a href="https://colab.research.google.com/github/detektor777/colab_list/blob/main/InstColorization.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo">
+</a>
+
